@@ -1,6 +1,6 @@
 # Jogos Python
  Jogos em Python puro feitos com o intuito de estudo, as variaveis e nomes de funções estão em ingles,
-pois estava praticando o mesmo junto, os comentários e outputs mantive a lingua materna para melhor entendimento
+pois estava praticando o mesmo junto, os comentários e outputs mantive a lingua materna para melhor entendimento,
 esse projeto ainda cabe refatoração, principalmente no Jogo da Velha.
 
 Para utilizar os scripts basta acessar o arquivo 'menu_selecao.py' e escolher um dos 3 jogos disponiveis,
